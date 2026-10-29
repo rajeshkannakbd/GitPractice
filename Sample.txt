@@ -1,3 +1,3 @@
-Hi, Hello I am from main branch
+Hi, Hello I am from Sample2 branch
 
 Hello I am from the Branch sample2File
